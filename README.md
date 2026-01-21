@@ -2,11 +2,15 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Stack Overflow
+GeeksforGeeks
+The following Youtube videos:
+https://www.youtube.com/watch?v=n8oasrJs_eY
+https://www.youtube.com/watch?v=XyxT8IQoZkc
+https://www.youtube.com/watch?v=_FOORt2FRDQ
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| N/A          | N/A       |
