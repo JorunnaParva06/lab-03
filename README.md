@@ -14,3 +14,8 @@ https://www.youtube.com/watch?v=_FOORt2FRDQ
 | Student Name | CCID      |
 | ------------ | --------- |
 | N/A          | N/A       |
+
+## How to use the app
+1. To edit a city, click on a city in the listview, then type the new city name in the popup box, then click OK.
+2. You can also add new cities by clicking the plus button in the bottom right, typing in the name of the city, then clicking OK. You may need to scroll down to see them.
+3. Clicking cancel on the popup boxes will cancel the current operation.
