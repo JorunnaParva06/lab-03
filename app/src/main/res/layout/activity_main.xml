@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -11,10 +12,18 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         >
-
-
     </ListView>
 
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/button_add_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:translationX="350dp"
+        android:translationY="675dp"
+        app:srcCompat="@android:drawable/ic_input_add" />
+
+<!--
     <Button
         android:id="@+id/button8"
         android:layout_width="140dp"
@@ -23,5 +32,6 @@
         android:text="+"
         android:textSize="60sp"
         android:translationX="271dp" />
+ -->
 
 </FrameLayout>
